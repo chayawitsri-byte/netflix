@@ -104,7 +104,7 @@ export function AuthGate({ children }: { children: React.ReactNode }) {
             
             <div className="text-center mt-6">
               <p className="text-zinc-500 text-xs">
-                Don't have a key? Contact @ARTY_SUPPORT
+                Don&apos;t have a key? Contact @ARTY_SUPPORT
               </p>
             </div>
           </CardContent>
